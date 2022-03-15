@@ -1,0 +1,5 @@
+group: 
+  name: petercms
+project: petercms
+module:
+  name: petercms-repository-data-webfiles

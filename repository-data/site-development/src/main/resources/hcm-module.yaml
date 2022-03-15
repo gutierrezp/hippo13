@@ -1,0 +1,6 @@
+site: petercms
+group: petercms
+project: petercms
+module:
+  name: petercms-repository-data-site-development
+  after: petercms-repository-data-site

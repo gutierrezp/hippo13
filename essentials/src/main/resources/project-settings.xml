@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>petercms</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>com.gutierrez</selectedProjectPackage>
+  <selectedBeansPackage>com.gutierrez.beans</selectedBeansPackage>
+  <selectedComponentsPackage>com.gutierrez.components</selectedComponentsPackage>
+  <selectedRestPackage>com.gutierrez.rest</selectedRestPackage>
+  <hstRoot>/hst:petercms</hstRoot>
+  <webfileBundleName>site</webfileBundleName>
+  <setupDone>false</setupDone>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>

@@ -1,0 +1,7 @@
+group: 
+  name: petercms
+  after: hippo-cms
+project: petercms
+module: 
+  name: petercms-repository-data-development
+  after: petercms-repository-data-application

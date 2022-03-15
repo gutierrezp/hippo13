@@ -1,0 +1,5 @@
+definitions:
+  namespace:
+    petercms:
+      uri: http://www.petercms.com/petercms/nt/1.0
+      cnd: namespaces/petercms.cnd
